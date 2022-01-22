@@ -4,4 +4,4 @@ You've reached the GitHub pages site for Von P. Walden. Dr. Walden works at the 
 
 ### Contact
 
-Contact me at [v.walden@wsu.edu](mailto://v.walden@wsu.edu)
+Contact me at [v.walden@wsu.edu](mailto:v.walden@wsu.edu)
